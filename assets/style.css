@@ -1,0 +1,93 @@
+
+/* .main .card-body .card-title{
+    display: inline-block;
+}
+.main .card-body .card-text{
+    display: inline-block;
+}*/
+.navbar{
+    background-color: black;
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+background-color: black;
+}
+.nav1{
+    width: 50%;
+    padding-left: 200px;
+    
+}
+.nav1 a{
+    color: red;
+}
+.nav2{
+    display: flex;
+padding-left: 200px;  
+  gap: 40px;
+    width: 50%;
+}
+.main{
+    padding: 50px 20px;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 50px;
+    background-color: #131212;
+} 
+.card-title{
+    display: flex;
+    justify-content: space-between;
+}
+.card-text{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    background-color: #4e49492c;
+    color: white;
+}
+.salam2{
+    display: flex;
+   gap: 0px;
+}
+.card-body{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+}
+.card1{
+    padding-left: 30px;
+
+}
+.nav-link{
+    width: 100%;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.button2{
+    background-color: red;
+}
+.btn-primary{
+    height: 50px;
+    margin-top: 10px;
+    background-color: rgb(15, 15, 15);
+    border: 0;
+}
+.card-text{
+   width: 50%;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+.btn{
+    width: 30%;
+    margin-left: 10%;
+}
+.salam{
+    background-color: black;
+}
